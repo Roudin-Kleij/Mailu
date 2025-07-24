@@ -1,0 +1,23 @@
+MIME-Version: 1.0
+Date: Tue, 24 Jun 2025 14:45:37 +0000
+Content-Type: multipart/alternative;
+ boundary="38cb3979-e313-46a5-9c40-9462affb1263-1"
+From: "Shiyar Kleij" <skl@roudin.de>
+Message-ID: <65ffc02c5d5dffe51fab8aa80493bf214d844f13@roudin.de>
+TLS-Required: No
+Subject: test 2
+To: shero.qelij@gmail.com
+
+--38cb3979-e313-46a5-9c40-9462affb1263-1
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+test=202
+--38cb3979-e313-46a5-9c40-9462affb1263-1
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"t=
+ext/html; charset=3Dutf-8"></head><body><div>test 2=C2=A0</div></body></h=
+tml>
+--38cb3979-e313-46a5-9c40-9462affb1263-1--

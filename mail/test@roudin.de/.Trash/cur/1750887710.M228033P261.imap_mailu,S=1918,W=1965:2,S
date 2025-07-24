@@ -1,0 +1,47 @@
+Delivered-To: <test@roudin.de>
+Return-Path: <admin@roudin.de>
+Received: from mail.roudin.de ([192.168.200.7])
+	by mail.roudin.de with LMTP
+	id vdsECh5tXGhWAAAA53ACcQ:P1
+	(envelope-from <admin@roudin.de>)
+	for <test@roudin.de>; Wed, 25 Jun 2025 23:41:50 +0200
+Received: from mail.roudin.de ([192.168.200.7])
+	by mail.roudin.de with LMTP
+	id vdsECh5tXGhWAAAA53ACcQ
+	(envelope-from <admin@roudin.de>)
+	for <test@roudin.de>; Wed, 25 Jun 2025 23:41:50 +0200
+MIME-Version: 1.0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=roudin.de; s=dkim;
+	t=1750887710;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=hrM4cQyWHFiE2Mvevu4QLQjgAecEne6p573H2DFUwLE=;
+	b=a8hqZXWqGFykJeQW/RrIUaNPq4H3Bk8nU27H96r/p4mgCIRTRGs0DNemNek3irY90JOjOi
+	RtmBqXKNV0x5K8SWCmUcPb+CqyBsTI2GexgTsNXqwaQNBqRAz9paba205ST7VIBNzveKn6
+	2JmJlv8cHWurx1ggw1OTMH79ccAWZ2ePdDMV4CXMdmqk+6kMrJ/UktuivpmvIbxshs7Pb6
+	XlJCEpKys7A2++8jWTi7Wr27JquLiP2kmAiqs6/B2DwR99nAI/AWS05V94mYhAUxlDNxDJ
+	MCdKWOJ7ZSKfqNBYRvloDYyTG+l4nerKNCAyMcBWGj59yrtuoL55Ia1hTzq78w==
+Authentication-Results: mail.roudin.de;
+	auth=pass smtp.mailfrom=admin@roudin.de
+Date: Wed, 25 Jun 2025 21:41:50 +0000
+Content-Type: multipart/alternative;
+ boundary="bdeaea24-66fd-4816-8030-49729ec9e396-1"
+From: admin@roudin.de
+Message-ID: <52a524b14b2f004742d2941e4d3598d5f2662ef6@roudin.de>
+Subject: test
+To: test@roudin.de
+X-Spamd-Bar: /
+
+--bdeaea24-66fd-4816-8030-49729ec9e396-1
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+test
+--bdeaea24-66fd-4816-8030-49729ec9e396-1
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"t=
+ext/html; charset=3Dutf-8"></head><body><div bis_skin_checked=3D"1">test<=
+/div></body></html>
+--bdeaea24-66fd-4816-8030-49729ec9e396-1--

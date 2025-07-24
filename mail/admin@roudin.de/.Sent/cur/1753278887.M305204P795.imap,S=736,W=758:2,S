@@ -1,0 +1,22 @@
+MIME-Version: 1.0
+Date: Wed, 23 Jul 2025 13:54:46 +0000
+Content-Type: multipart/alternative;
+ boundary="bdc17ef6-a618-4289-95b1-db9b9fd0fc1c-1"
+From: "Admin" <admin@roudin.de>
+Message-ID: <bf11ce259a8b9ab21f16fe167d9c1c66e283ca30@roudin.de>
+TLS-Required: No
+Subject: 
+To: test@roudin.de
+
+--bdc17ef6-a618-4289-95b1-db9b9fd0fc1c-1
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Test
+--bdc17ef6-a618-4289-95b1-db9b9fd0fc1c-1
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"t=
+ext/html; charset=3Dutf-8"></head><body><div>Test</div></body></html>
+--bdc17ef6-a618-4289-95b1-db9b9fd0fc1c-1--

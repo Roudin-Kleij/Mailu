@@ -1,0 +1,3 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt/tuMrh/Q4DWKHz6Zd9iQre70u2gFgrHDrWghftGV5t+jgWwIfXuvSljhVsy/GH+xwuoX4CoDIx/LLheGgz1rHsoAgE2nrArMuUjosARNmHCAfKXP8w5IRibnwYyYwaSf4jT3AAo+LCcnVTz6mVt506M9jST/NACMOkYM7SelAgBwvKMREARDkknWtQfMvk/VAdZQqMI+pqcY1"
+	  "HmA2ORQAVNF8Ed4wjIIBhpI86KphLJyLGPfOeXRFbApO/qrpt4nneQ+B2FmDrFsigQAQ2AWi6ifoCCSRFpFmwrVUd90EwMx2i9mUYX7Ek0UGQMYm26+YWWXiVeOpVdnrqW9gTpcQIDAQAB" )  ; ----- DKIM key mail for roudin.demv
