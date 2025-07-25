@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+
+# But DO track these files
+!.gitignore
+!docker-compose.yml
+!mailu.env

@@ -1,4 +1,0 @@
-version: STSv1
-mode: enforce
-mx: mail.roudin.de
-max_age: 86400
